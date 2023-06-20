@@ -36,7 +36,7 @@ I am an aspiring Data Scientist with a passion for logical reasoning and problem
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" align="center" style="width: 100%" />
 </div>  
 
 
