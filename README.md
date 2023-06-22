@@ -8,7 +8,7 @@
 <a href="https://www.kaggle.com/pamohammedarshad" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/https://medium.com/@mdarshad44477" target="_blank">
+<a href="https://medium.com/@mdarshad44477" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
   
