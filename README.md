@@ -28,7 +28,7 @@ I am an aspiring Data Scientist with a passion for logical reasoning and problem
 - 💬 Ask me about Data Analytics, Machine Learning & NLP  
   
 
-- 📫 How to reach me mdarshad44477@gmail.com  
+- 📫 How to reach me mdarshadpa@gmail.com  
 
 
 </td><td valign="top" width="50%">
